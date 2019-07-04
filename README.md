@@ -65,3 +65,13 @@ https://github.com/MathieuSeraphim/ObjectDetectorAndLabeler
 Same as above, but more standalone, and returns only labels. Also, *cleaner*.
 
 Well documented.
+
+## Antimony
+
+https://github.com/MathieuSeraphim/Antimony
+
+Project for scraping and labeling images an videos.
+
+Modular and more or less well coded.
+
+Well documented.
