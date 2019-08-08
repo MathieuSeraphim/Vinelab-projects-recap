@@ -80,6 +80,26 @@ Well documented.
 
 https://github.com/MathieuSeraphim/Neo4jGraphMakingTests
 
-Linked to the Antimony project; for uploading video data as a graph on Neo4j
+Linked to the Antimony project; for uploading video data as a graph on Neo4j.
 
-Not documented at all
+Not documented at all.
+
+## Tellurium
+
+https://github.com/MathieuSeraphim/Tellurium
+
+https://github.com/MathieuSeraphim/Telluric_Acid
+
+https://github.com/MathieuSeraphim/Tellurium_Tetrachloride
+
+https://github.com/MathieuSeraphim/Bismuth_Telluride
+
+https://github.com/MathieuSeraphim/Tellurocysteine
+
+Project for detecting faces and other labels in images, regrouping faces into face groups, and linking said face groups with the other labels in one big graph.
+
+Large project, including four subprojects.
+
+Modular and more or less well coded.
+
+Inputs and outputs documented in various README.md files.
