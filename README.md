@@ -103,3 +103,13 @@ Large project, including four subprojects.
 Modular and more or less well coded.
 
 Inputs and outputs documented in various README.md files.
+
+## Logo Detection
+
+https://github.com/MathieuSeraphim/LogoDetectionReport
+
+Last project, unfinished
+
+Attempts to create a logo detection model to complement Tellurium
+
+The Git repo is a recap of what has been done
