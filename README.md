@@ -79,7 +79,7 @@ Inputs and outputs documented in various README.md files.
 
 Subprojects:
 - [Telluric Acid](https://gitfront.io/r/MathieuSeraphim/PW2fLb9AXRj9/Telluric-Acid/)
-- Tellurium Tetrachloride  *
+- Tellurium Tetrachloride\*
 - [Bismuth Telluride](https://gitfront.io/r/MathieuSeraphim/ADSshsum7391/Bismuth-Telluride/)
 - [Tellurocysteine](https://gitfront.io/r/MathieuSeraphim/KVo2htemWbQv/Tellurocysteine/)    
 
