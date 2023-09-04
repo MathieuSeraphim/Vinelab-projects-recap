@@ -1,10 +1,12 @@
 # Sociata (Vinelab) projects recap
 
-From May to August 2019, I was an intern at Vinelab (rebranded to Sociata in 2022), in Beirut, Lebanon. I worked primarily on the research and development of Machine Learning solutions for Social Media analysis. Here is a quick recap of all my GitHub repositories linked to this internship, in chronological order.    
-Keep in mind that as I was still in training, these projects may not be ideal in terms of code clarity or documentation.    
+From May to August 2019, I was an intern at Vinelab (rebranded to Sociata in 2022), in Beirut, Lebanon. I worked primarily on the research and development of Machine Learning solutions for Social Media analysis. This was done during my second year in Engineering School (4th year post High School), which required a 4-month internship during said year.\*  
+Here is a quick recap of all my GitHub repositories linked to this internship, in chronological order. Keep in mind that as I was still in training, these projects may not be ideal in terms of code clarity or documentation.    
 
 For professional reasons, I have decided to make said repositories private, though at time of writing, they are still accessible through GitFont links.    
-You may access them by clicking on the following project names.
+You may access them by clicking on the following project names.  
+
+\*: *To learn more about my work experience, feel free to consult [my LinkedIn profile](https://www.linkedin.com/in/mathieu-seraphim/).*
 
 ## [InstagramInfluencerFakeFollowerProportion](https://gitfront.io/r/MathieuSeraphim/G8L8BdyQ6UWK/InstagramInfluencerFakeFollowerProportion/)
 
